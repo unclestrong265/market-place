@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "market-place",
+    "scheme": "marketplace",
     "slug": "market-place",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "marketplace",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
